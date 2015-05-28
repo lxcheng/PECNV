@@ -1,0 +1,3 @@
+C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s1_c40_100.count  C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s1_c40_100.depth
+C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s1_c40_000.count  C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s1_c40_000.depth
+C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s2_c40_010.count  C:\Users\lxcheng\Desktop\cnv\program\simulation\c40_count\s2_c40_010.depth
